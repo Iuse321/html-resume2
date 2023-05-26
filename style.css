@@ -1,0 +1,26 @@
+h1{
+    font-family: 'Pangolin', cursive;
+    color: #617A55;
+    background-color: #F7E1AE;
+    padding: 10px;
+    font-weight: bold;
+}
+html{
+    background-color: #F97B22;
+    text-align: center;
+}
+img{
+    border: 3px dotted cadetblue;
+    border-radius: 50%;
+    height: 300px;
+    width: 200px;
+}
+li{
+    text-align: left;
+}
+h2{
+    background-color: burlywood;
+}
+a{
+    color: darkslategrey;
+}
